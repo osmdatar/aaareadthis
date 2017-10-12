@@ -1,2 +1,3 @@
-# aaareadthis
-What was osmdatar?
+# osmdatar
+
+`osmdatar` was an organization created to develop the eventual [`osmdata` R package](https://github.com/ropensci/osmdata). This package was commenced by merging prior work by Bob Rudis and others on the [`overpass` package](https://github.com/hrbrmstr/overpass) with work by Mark Padgham and others on the [`osmdatar` package](https://github.com/osmdatar/osmdatar). `overpass` was primarily an API interface to the OpenStreetMap server of the same name, while `osmdatar` was more a C++ back-end to quickly process the data. The two were ultimately merged to yield the final `osmdata` package, so all of this organization is now redundant and has ceased development.
